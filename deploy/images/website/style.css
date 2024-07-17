@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(211, 197, 135);
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: rgb(240, 236, 236);
+  text-shadow: 10px 8px 8px rgba(189, 182, 182, 0.5);
+}
+h5 {
+  text-align: center;
+}
+pre {
+  text-align: center;
+  color: rgb(79, 48, 48);
+}
+hr {
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgb(67, 20, 20);
+  color: rgb(50, 22, 22);
+}
+.header {
+  background-color: rgb(99, 27, 27);
+  height: 150px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  opacity: 0.7;
+}
+.footer {
+  background-color: rgb(123, 37, 37);
+  height: 130px;
+  opacity: 0.75;
+}
+.video-link {
+  text-decoration: none;
+  color: rgb(109, 43, 43);
+  margin-left: 560px;
+  margin-bottom: 40px;
+}
+a:hover {
+  color: rgb(176, 120, 120);
+  transition: opacity 1s;
+}
+.leonard-image {
+  margin-left: 480px;
+  opacity: 0.75;
+  border-radius: 4px;
+}
+img {
+  border-radius: 50px;
+}
+buy-button{
+  float:center;
+}
